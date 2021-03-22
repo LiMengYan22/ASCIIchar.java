@@ -2,7 +2,9 @@
 Saca el código *ASCII* de una letra o carácter..
 
 
-` 
+``` 
+
+
 public class asciichar {
  public static void main(String[] args) {     
    char letra=0;
@@ -12,4 +14,5 @@ public class asciichar {
  }  
 }  
 
- `
+
+ ```
